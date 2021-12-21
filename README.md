@@ -7,7 +7,6 @@ BrowserSync met en place un auto-reload de votre projet dans votre navigateur.
 
 ## Structure du projet
 
-Base :
 * index.html
 * gulpfile.js
 * README.md
