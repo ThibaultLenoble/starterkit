@@ -1,0 +1,8 @@
+/*
+  Normalement nous devrions regrouper normalize et mixins, cependant j'ai volontairement laissé le normalize à part si vous ne voulez pas l'importer.
+ */
+@import "utils/normalize";
+
+@import "utils/mixins";
+
+@import 'base/abstracts';
