@@ -31,7 +31,7 @@ BrowserSync met en place un auto-reload de votre projet dans votre navigateur.
 Avant de pouvoir utiliser gulp vous devez installer les packages nécessaire avec la commande :
 
 ```
-yarn add gulp gulp-sass sass gulp-postcss cssnano gulp-terser browser-sync postcss
+yarn install
 ```
 
 Vous pouvez ensuite modifier le `gulpfile.js` pour changer le dossier où les fichiers seront compilés :
