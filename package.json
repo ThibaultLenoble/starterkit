@@ -1,0 +1,27 @@
+{
+  "name": "starterkithtml",
+  "version": "1.0.0",
+  "description": "Ceci est un starter kit HTML, Sass, js. Il fonctionne avec Gulp + BrowserSync.",
+  "main": "assets/js/app.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThibaultLenoble/starterkitHTML.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThibaultLenoble/starterkitHTML/issues"
+  },
+  "homepage": "https://github.com/ThibaultLenoble/starterkitHTML#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "cssnano": "^5.0.17",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-terser": "^2.1.0",
+    "postcss": "^8.4.7",
+    "sass": "^1.49.9"
+  }
+}
